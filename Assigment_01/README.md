@@ -10,7 +10,7 @@
 Experienced Full Stack Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Web Applications, Bootstrap, Cascading Style Sheets (CSS), AngularJS, and MongoDB. Strong engineering professional with a Bachelor of Technology - BTech focused in Electrical, Electronics and Communications Engineering from Hindustan University. Currently pursuing Masters in Data Science at University of Maryland
 ## Education
 * Bachelors in Electronics engineering from Hindustan university, Chennai. **2015-2019**
-* Persuing Masters degree at UMBC In data Science. **2021-2023**
+* Persuing Masters degree at UMBC In **data Science**. **2021-2023**
 ## Skills
 1. C Programming Language
 2. Python Programming Language
